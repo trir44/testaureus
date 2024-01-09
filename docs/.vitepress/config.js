@@ -1,5 +1,5 @@
 module.exports = {
-	title: 'VitePress template',
+	title: 'Aureus Docs',
 	description: 'A JAMstack website template with the VitePress and Netlify CMS config.',
 	themeConfig: {
 		repo: 'tsutoringo/VitePress-with-Netlify-CMS',
@@ -9,8 +9,7 @@ module.exports = {
 		lastUpdated: 'Last Updated',
 		nav: [
 			{ text: 'Home', link: '/' },
-			{ text: 'Guide', link: '/guide/' },
-			{ text: 'GitHub', link: 'https://github.com/tsutoringo/VitePress-with-Netlify-CMS' }
+			{ text: 'Guide', link: '/guide/' }
 		],
 	}
 }
